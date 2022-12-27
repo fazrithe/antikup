@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
+	"github.com/fazrithe/antikup/config"
 	"github.com/jinzhu/gorm"
-	"github.com/mmattklaus/go-jwt-demo/config"
 	"github.com/mmattklaus/go-jwt-demo/helpers"
 )
 

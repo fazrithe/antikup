@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/fazrithe/antikup/config"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
+	"github.com/mmattklaus/go-jwt-demo/config"
 )
 
 type Database struct {
