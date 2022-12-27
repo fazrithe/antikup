@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/fazrithe/antikup/config"
-	mw "github.com/fazrithe/antikup/middleware"
 	"github.com/jinzhu/gorm"
+	"github.com/mmattklaus/go-jwt-demo/config"
+	mw "github.com/mmattklaus/go-jwt-demo/middleware"
 	"github.com/mmattklaus/go-jwt-demo/models"
 )
 
