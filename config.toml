@@ -1,0 +1,11 @@
+APP_NAME="antikup"
+APP_KEY="@ljk#$80#$)0584klufsd3459)&*&#$02!!="
+
+DB_HOST="127.0.0.1"
+DB_USERNAME="root"
+DB_PASSWORD=""
+DB_DATABASE="antikup"
+
+SERVER_ADDR=":8080"
+CERT_FILE="./certs/server.crt"
+KEY_FILE="./certs/server.key"
